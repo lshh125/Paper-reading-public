@@ -1,2 +1,2 @@
-# Paper-reading-public
-Papers I read
+# paper-reading-public
+Public papers I read.
