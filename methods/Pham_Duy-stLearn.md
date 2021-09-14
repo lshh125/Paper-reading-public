@@ -30,14 +30,14 @@ Cell types, trajectories, cell-cell interactions
     - diffusion pseudotime
     - add spatial info
     - directed minimum spanning tree 
-   **case study breast DCIS IDC**
-    - Tree instead of a linear trajectory
-    - Different sets of markers for clades
+    - **case study breast DCIS IDC**
+        - Tree instead of a linear trajectory
+        - Different sets of markers for clades
 4. Interactions
     - L-R co-expression (CellphoneDB, etc.)
     - cell type diversity
-   **case study breast DCIS IDC**
-    - 7 CCI clusters
-    - cluster 5: most interactions; immune cells
+    - **case study breast DCIS IDC**
+        - 7 CCI clusters
+        - cluster 5: most interactions; immune cells
 5. Microenvironment
     - factor analysis: PCA, ICA, FA
