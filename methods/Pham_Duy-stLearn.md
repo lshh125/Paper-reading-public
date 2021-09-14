@@ -5,7 +5,7 @@ The University of Queensland
 https://www.biorxiv.org/content/10.1101/2020.05.31.125658v1
 https://stlearn.readthedocs.io/en/latest/
 
-Three data types:
+Three data types to be integrated:
 - Spatial dimensionality,
 - tissue morphology, and
 - transcriptomics
