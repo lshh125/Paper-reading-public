@@ -24,6 +24,9 @@ Reference sample
   - assess batch effects
   - monitor cell-type composition
 
+Benchmarking:
+Cells: ~3,000 per protocol (>50,000 for reference)
+
 
 Expectation for sequencing methods:
 1. accurate, free of technical biases
@@ -34,3 +37,13 @@ Expectation for sequencing methods:
 6. integratable with other methods 
 7. have predictive value with cells mapping confidently to a reference atlas
 
+
+Observations:
+- Higher fraction of mouse colon cells in unsorted and snRNA-seq data -> damaging during sample preparation -> no viability selection? More cells removed in filtering, higher cost
+- Chromium v.3 better than v.2
+- high technical reproducibility within the methods
+- snRNA-seq more introns; scRNA-seq also high proportion of intronic/intergenic mapping
+- snRNA: less genes detected than scRNA
+- snRNA: UMAP similar to scRNA, correlation not so much
+- Marker gene overlap is low among methods and between scRNA and snRNA;
+- When more cells are included, snRNA and scRNA are similar interms of transcriptome complexity
