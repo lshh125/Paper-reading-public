@@ -13,3 +13,5 @@
 - Pleiotropic (has many functions)
   - self vs nonself
   - antigen presentation
+
+Question: Given the diversity in HLA binding preferences, an important question is whether one can accurately predict **if a peptide is presented by a specific HLA allele**.
